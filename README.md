@@ -1,2 +1,2 @@
-# -JavaSkript
+JavaSkript
 Для проверки домашних заданий
